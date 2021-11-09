@@ -23418,4 +23418,16 @@
     "website": "https://mend.house",
     "twitter": "https://twitter.com/mendappinc"
   }
+  ,
+  "chainId": 101,
+  "address": "C4xWe67MMg5zJia7gZ8BmH2btvCfMeSMWRVWXCGvoAfG",
+  "symbol": "PSCHARM",
+  "name": "PSCHARM",
+  "decimals": 9,
+  "logoURI": "",
+  "tags": [],
+  "extensions": {
+    "website": "www.charmtoken.net",
+    "twitter": "https://twitter.com/charm_token"
+  }
 }
